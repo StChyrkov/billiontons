@@ -1,0 +1,115 @@
+.site-header {
+    background-color: #F4F1F1;
+    font-family: 'Inknut Antiqua', serif;
+    color: #2E8040;
+    font-weight: 400;
+    font-size: 32.17px;
+    line-height: 82.95px;
+    
+}
+
+.und {
+    font-size: 23.34px;
+    line-height: 60.18px;
+}
+
+.flex-container {
+    display: flex;
+}
+
+.justify-center {
+    justify-content: center;
+}
+
+.header-text {
+    margin-top: 10px;
+}
+
+.site-footer {
+    background-color: #205B2D;
+}
+
+.footer-logo {
+    width: 75.13px;
+    height: 103.9px;
+    margin-right: 25.89px;
+    margin-top: 8px;
+}
+
+.footer-text-block {
+    font-family: 'Inknut Antiqua', serif;
+    color: #FFFFFF;
+    font-weight: 400;
+    font-size: 34.21px;
+    line-height: 35px;
+}
+
+.footer-small {
+    font-size: 24.82px;
+    line-height: 45px;
+}
+
+.footer-copyright {
+    font-family: 'Rubik', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 30px;
+    color: #D8D8D8;
+    margin-top: 37px;
+}
+
+.footer-content {
+    justify-content: space-between;
+}
+
+.right-footer-block {
+    font-family: 'Inter', sans-serif;
+    font-weight: 500;
+    color: #FFFFFF;
+}
+
+.phone-number {
+    font-size: 24px;
+    line-height: 30px;
+}
+
+.phone-text {
+    font-size: 18px;
+    line-height: 28.49px;
+    opacity: 70%;
+}
+
+.footer-mail {
+    font-size: 24px;
+    line-height: 30px;
+}
+
+.footer-location {
+    font-size: 24px;
+    line-height: 30px;
+}
+
+.left-footer-block, .right-footer-block {
+    margin-top: 50px;
+}
+
+.footer-mail, .footer-location{
+    margin-top: 26px;
+}
+
+.right-footer-block {
+    margin-bottom: 60px;
+}
+
+.location-link {
+    text-decoration: none;
+    color: #FFFFFF;
+}
+
+.footer-location-icon {
+    margin-right: 3px;
+}
+
+
+
+

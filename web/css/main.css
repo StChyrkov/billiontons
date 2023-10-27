@@ -1,0 +1,268 @@
+@font-face {
+    font-family: "Next Art";
+    src: url ("../fonts/next-art/NEXT_ART_Regular.otf");
+}
+
+.main-logo {
+    width: 134.27px;
+    height: 182.56px;
+    margin-top: 180px;
+}
+
+.site-banner {
+    background-image: url("../images/banner-background.png");
+    background-size: cover;
+	background-repeat: no-repeat;
+    font-family: 'Next Art', serif;
+    font-weight: 400;
+    color: #FFFFFF;
+    font-size: 62px;
+    line-height: 67.57px;
+}
+
+.main-text {
+    margin-top: 70px;
+}
+
+.low-text{
+    font-size: 32px;
+    line-height: 32px;
+    margin-top: 30px;
+    margin-bottom: 200px;
+}
+
+.section-header {
+    font-family: 'Next Art', serif;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 67.57px;
+}
+
+.why-header {
+    color: #D4B984;
+    margin-left: 80px;
+    margin-bottom: 40px;
+    font-size: 54px;
+}
+
+.why-par {
+    font-family: 'Inter', sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 32px;
+    margin-bottom: 32px;
+}
+
+.why-image-right {
+    max-width: 570px;
+    margin-left: 120px;
+    border-top-right-radius: 210px;
+    border-top-left-radius: 210px;
+}
+
+.why-us {
+    margin-top: 70px;
+    margin-bottom: 110px;
+}
+
+.partners {
+    background-color: #205B2D;
+}
+
+.partners-header {
+    color: #D4B984;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.card-header {
+    font-family: 'Next Art', serif;
+    font-weight: 400;
+    font-size: 42px;
+    line-height: 52.31px;
+    margin-bottom: 30px;
+}
+
+
+.about-card {
+    width: 470px;
+    margin-top: 90px;
+
+}
+
+.first-card {
+    margin-right: 100px;
+}
+
+.about {
+    flex-wrap: wrap;
+    margin-bottom: 140px;
+}
+
+.card-text {
+    font-family: 'Inter', sans-serif;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 24px;
+}
+
+.products {
+    background-color: #D4B984;
+}
+
+.products-header {
+    color: #205B2D;
+    margin-top: 40px;
+}
+
+.product-image {
+    margin: 8px;
+    border-radius: 21.72px;
+}
+
+.product-card {
+    background-color: #FFFFFF80;
+    border-radius: 17.38px;
+    margin-top: 80px;
+    margin-bottom: 160px;
+}
+
+.justify-around {
+    justify-content: space-around;
+}
+
+.product-name {
+    font-family: 'Inter', sans-serif;
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 33.89px;
+    margin-top: 70px;
+}
+
+.contact-button {
+    background-color: #FFFFFF;
+    text-decoration: none;
+    font-family: 'Next Art', serif;
+    font-weight: 300;
+    font-size: 27.8px;
+    line-height: 30.3px;
+    color: #000000;
+    padding-top: 14px;
+    padding-bottom: 14px;
+    padding-left: 73px;
+    padding-right: 73px;
+    border-radius: 21.72px;
+}
+
+.button-container {
+    margin-top: 90px;
+    margin-bottom: 8px;
+}
+
+.shipments-header {
+    margin-top: 40px;
+}
+
+.shipment-header {
+    font-family: 'Inter', sans-serif;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 58.09px;
+    margin-bottom: 20px;
+}
+
+.ship-header-small {
+    font-weight: 300;
+    font-size: 26px;
+    line-height: 45.99px;
+}
+
+.shipment-image-small {
+    max-width: 290px;
+    max-height: 300px;
+    margin-right: 13px;
+    margin-bottom: 13px;
+}
+
+.shipment-image-big {
+    max-width: 595px;
+    max-height: 595px;
+    margin-right: 13px;
+    margin-bottom: 13px;
+}
+
+.shipment-card {
+    max-width: 615px;
+    margin-top: 50px;
+}
+
+.images-block {
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.shipments-content {
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.form-container {
+    background-color: #DCD7D799;
+    margin-top: 100px;
+    margin-bottom: 70px;
+}
+
+.form-field {
+    border: none;
+    border-bottom: 1px solid black;
+    background-color: transparent;
+    outline: none;
+}
+
+.form-header{
+    font-family: 'Next Art', serif;
+    font-weight: 400;
+    font-size: 27.8px;
+    line-height: 30.3px;
+    margin-top: 18px;
+    margin-bottom: 45px;
+}
+
+.form-text {
+    font-family: 'Inter', sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 25px;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
+.contact-form {
+    flex-direction: column;
+    align-items: center;
+}
+
+.and {
+    font-family: 'Inter', sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 26px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+.form-button {
+        border-radius: 20px;
+        border: none;
+        font-family: 'Next Art', serif;
+        font-weight: 400;
+        font-size: 27.8px;
+        line-height: 30.3px;
+        margin-top: 50px;
+        padding-left: 120px;
+        padding-right: 120px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        background-color: #FFFFFF;
+        margin-bottom: 10px;
+}
