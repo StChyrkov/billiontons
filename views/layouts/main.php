@@ -70,7 +70,7 @@ $this->registerLinkTag(['rel' => 'icon', 'type' => 'image/x-icon', 'href' => Yii
             </div>
             <div class="right-footer-block">
                 <div class="phone-block-footer">
-                    <div class="phone-number">+XXX XXXXXXXXX</div>
+                    <div class="phone-number">+4366493017565</div>
                     <div class="phone-text">for mobile operator tariffs</div>
                 </div> 
                 <div class="footer-mail">office@billiontons.at</div> 

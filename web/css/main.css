@@ -1,6 +1,10 @@
 @font-face {
-    font-family: "Next Art";
-    src: url ("../fonts/next-art/NEXT_ART_Regular.otf");
+    font-family: 'Next Art';
+    src: url('../fonts/next-art/NEXTART.woff2') format('woff2'),
+        url('../fonts/next-art/NEXTART.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
 }
 
 .main-logo {
