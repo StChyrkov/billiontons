@@ -1,11 +1,4 @@
-@font-face {
-    font-family: 'Next Art';
-    src: url('../fonts/next-art/NEXTART.woff2') format('woff2'),
-        url('../fonts/next-art/NEXTART.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-    font-display: swap;
-}
+
 
 .main-logo {
     width: 134.27px;
@@ -17,7 +10,7 @@
     background-image: url("../images/banner-background.png");
     background-size: cover;
 	background-repeat: no-repeat;
-    font-family: 'Next Art', serif;
+    font-family: 'NEXT ART', sans-serif;
     font-weight: 400;
     color: #FFFFFF;
     font-size: 62px;
@@ -36,7 +29,7 @@
 }
 
 .section-header {
-    font-family: 'Next Art', serif;
+    font-family: 'NEXT ART', sans-serif;
     font-weight: 400;
     font-size: 48px;
     line-height: 67.57px;
@@ -80,7 +73,7 @@
 }
 
 .card-header {
-    font-family: 'Next Art', serif;
+    font-family: 'NEXT ART', sans-serif;
     font-weight: 400;
     font-size: 42px;
     line-height: 52.31px;
@@ -146,7 +139,7 @@
 .contact-button {
     background-color: #FFFFFF;
     text-decoration: none;
-    font-family: 'Next Art', serif;
+    font-family: 'NEXT ART', sans-serif;
     font-weight: 300;
     font-size: 27.8px;
     line-height: 30.3px;
@@ -224,7 +217,7 @@
 }
 
 .form-header{
-    font-family: 'Next Art', serif;
+    font-family: 'NEXT ART', sans-serif;
     font-weight: 400;
     font-size: 27.8px;
     line-height: 30.3px;
@@ -258,7 +251,7 @@
 .form-button {
         border-radius: 20px;
         border: none;
-        font-family: 'Next Art', serif;
+        font-family: 'NEXT ART', sans-serif;
         font-weight: 400;
         font-size: 27.8px;
         line-height: 30.3px;

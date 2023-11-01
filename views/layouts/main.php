@@ -27,7 +27,8 @@ $this->registerLinkTag(['rel' => 'icon', 'type' => 'image/x-icon', 'href' => Yii
     <?php $this->head() ?>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Inknut+Antiqua&family=Inter:wght@500&family=Rubik&display=swap" rel="stylesheet">  
+    <link href="https://fonts.googleapis.com/css2?family=Inknut+Antiqua&family=Inter:wght@500&family=Rubik&display=swap" rel="stylesheet"> 
+    <link href="https://fonts.cdnfonts.com/css/next-art" rel="stylesheet">             
 </head>
 <body class="d-flex flex-column h-100">
 <?php $this->beginBody() ?>
