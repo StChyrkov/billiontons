@@ -76,7 +76,7 @@ $this->registerLinkTag(['rel' => 'icon', 'type' => 'image/x-icon', 'href' => Yii
                 </div> 
                 <div class="footer-mail">office@billiontons.at</div> 
                 <div class="footer-location">
-                    <img src="../logo/vector.png" alt="location-icon" class="footer-location-icon">
+                    <img src="../logo/Vector.png" alt="location-icon" class="footer-location-icon">
                     <a href="https://maps.app.goo.gl/NFc2ebEN7yTJqoQw6" class="location-link" target="_blank">Karajangasse 7, 1200 Wien, Austria</a>
                 </div> 
             </div>
