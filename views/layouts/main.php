@@ -36,7 +36,7 @@ $this->registerLinkTag(['rel' => 'icon', 'type' => 'image/x-icon', 'href' => Yii
 <header id="header" class="site-header">
     <div class="container">
         <div class="header-text flex-container justify-center">
-            <p>Billiontons Handels <span class="und">und</span> Consulting GmbH</p>
+            <p class="header-content">Billiontons Handels <span class="und">und</span><span class="break-line"> Consulting GmbH</span></p>
         </div>
     </div>
 </header>

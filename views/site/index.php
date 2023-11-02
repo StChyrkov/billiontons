@@ -13,7 +13,7 @@ $this->title = 'Billiontons Handels und Consulting GmbH';
                 <img src="../logo/logo-main.png" alt="main-logo" class="main-logo">
             </div>
             <div class="company-logo flex-container justify-center">
-                <div class="main-text">Grain brokerage company</div>
+                <div class="main-text"><p class="mobile-text">Grain <span>brokerage</span> company</p></div>
             </div>
             <div class="company-logo flex-container justify-center">
                 <div class="low-text">Europe. Black Sea region</div>
@@ -46,7 +46,7 @@ $this->title = 'Billiontons Handels und Consulting GmbH';
     <div class="partners">
         <div class="container">
             <div class="flex-container justify-center">
-                <h2 class="section-header partners-header">PARTNERS AND MEMBERSHIPS</h2>
+                <h2 class="section-header partners-header">PARTNERS AND <span>MEMBERSHIPS</span> </h2>
             </div>
         </div>
     </div>
@@ -79,9 +79,9 @@ $this->title = 'Billiontons Handels und Consulting GmbH';
     <div class="products">
         <div class="container">
                 <div class="flex-container justify-center">
-                    <h2 class="section-header products-header">TRADED PRODUCTS</h2>
+                    <h2 class="section-header products-header">TRADED <span>PRODUCTS</span></h2>
                 </div>
-                <div class="flex-container justify-around">
+                <div class="flex-container justify-around cards-container">
                     <div class="product-card">
                         <img src="../images/soya-image.png" alt="soaybeans" class="product-image">
                         <div class="flex-container justify-center">

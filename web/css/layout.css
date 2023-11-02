@@ -4,8 +4,8 @@
     color: #2E8040;
     font-weight: 400;
     font-size: 32.17px;
-    line-height: 82.95px;
-    
+    line-height: 82.95px;  
+    align-items: center;
 }
 
 .und {
@@ -111,5 +111,74 @@
 }
 
 
+@media(max-width:767px) {
+    .site-header {
+        font-size: 28px;
+        line-height: 74px;  
+    }
 
+    .header-content {
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+    }
+
+    .und {
+        padding-right: 25px;
+        padding-left: 25px;
+        line-height: 20px;
+    }
+
+    .footer-content {
+        flex-wrap: wrap;
+        flex-direction: column-reverse;
+    }
+
+    .phone-number {
+        font-size: 18px;
+        line-height: 22px;
+    }
+    
+    .phone-text {
+        font-size: 14px;
+        line-height: 22px;
+        opacity: 70%;
+    }
+    
+    .footer-mail {
+        font-size: 18px;
+        line-height: 22px;
+        margin-top: 10px;
+    }
+    
+    .footer-location {
+        font-size: 18px;
+        line-height: 22px;
+        margin-top: 10px;
+    }
+
+    .right-footer-block {
+        margin-top: 20px;
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+        align-items: center;
+        flex-direction: column;
+        margin-bottom: 10px;
+    }
+
+    .footer-text-block {
+        font-size: 22px;
+        line-height: 30px;
+    }
+
+    .left-footer-block {
+        margin-top: 25px;
+    }
+
+    .footer-copyright {
+        font-size: 14px;
+        margin-top: 10px;
+    }
+}
 

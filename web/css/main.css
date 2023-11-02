@@ -263,3 +263,117 @@
         background-color: #FFFFFF;
         margin-bottom: 10px;
 }
+
+@media(max-width:767px) {
+   .why-image {
+        display: none;
+   }
+
+   .cards-container {
+        flex-wrap: wrap;
+   }
+
+   .shipment-image-big {
+        max-width: 290px;
+   }
+
+   .form-text {
+        margin-right: 50px;
+        margin-left: 50px;
+   }
+
+   .main-logo {
+        margin-top: 60px;
+   }
+
+   .mobile-text {
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+   }
+
+   .main-text {
+        font-size: 48px;
+        margin-top: 20px;
+   }
+
+   .low-text {
+    font-size: 24px;
+    margin-bottom: 48px;
+   }
+
+   .why-us {
+        margin-top: 28px;
+        margin-bottom: 26px;
+   }
+   .why-header {
+        margin-bottom: 24px;
+        font-size: 42px;
+        margin-left: 0px;
+        display: flex;
+        justify-content: center;
+   }
+
+   .partners-header {
+        font-size: 42px;
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+        margin-top: 18px;
+        margin-bottom: 18px;
+   }
+
+   .first-card {
+        margin-right: 0px;
+   }
+
+   .card-header {
+        font-size: 28px;
+        margin-bottom: 10px;
+   }
+
+   .about-card {
+        margin-top: 28px;
+   }
+
+   .about {
+        margin-bottom: 36px;
+   }
+
+   .products-header {
+    font-size: 42px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-top: 18px;
+    margin-bottom: 18px;
+   }
+
+   .product-card {
+        margin-top: 24px;
+        margin-bottom: 10px;
+   }
+
+   .shipments-header {
+    font-size: 42px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-top: 18px;
+    margin-bottom: 0px;
+   }
+
+   .shipment-card {
+        margin-top: 18px;
+   }
+
+   .form-container {
+        margin-top: 40px;
+        margin-bottom: 50px;
+   }
+
+   .form-header {
+        font-size: 24px;
+   }
+
+}
