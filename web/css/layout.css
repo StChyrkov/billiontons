@@ -124,8 +124,8 @@
     }
 
     .und {
-        padding-right: 25px;
-        padding-left: 25px;
+        padding-right: 60px;
+        padding-left: 60px;
         line-height: 20px;
     }
 
@@ -135,26 +135,27 @@
     }
 
     .phone-number {
-        font-size: 18px;
-        line-height: 22px;
+        font-size: 14px;
+        line-height: 18px;
+        color: white;
     }
     
     .phone-text {
-        font-size: 14px;
-        line-height: 22px;
+        font-size: 12px;
+        line-height: 16px;
         opacity: 70%;
     }
     
     .footer-mail {
-        font-size: 18px;
-        line-height: 22px;
-        margin-top: 10px;
+        font-size: 14px;
+        line-height: 18px;
+        margin-top: 8px;
     }
     
     .footer-location {
-        font-size: 18px;
-        line-height: 22px;
-        margin-top: 10px;
+        font-size: 14px;
+        line-height: 18px;
+        margin-top: 8px;
     }
 
     .right-footer-block {
@@ -168,8 +169,13 @@
     }
 
     .footer-text-block {
-        font-size: 22px;
-        line-height: 30px;
+        font-size: 16px;
+        line-height: 22px;
+    }
+
+    .footer-small {
+        font-size: 12px;
+        line-height: 14px;
     }
 
     .left-footer-block {
@@ -177,8 +183,26 @@
     }
 
     .footer-copyright {
-        font-size: 14px;
-        margin-top: 10px;
+        font-size: 10px;
+        margin-top: 12px;
     }
+
+    .left-content {
+        display: flex;
+        justify-content: center;
+    }
+
+    .footer-logo {
+        max-width: 40px;
+        max-height: 50px;
+        margin-right: 10px;
+        margin-top: 5px;
+    }
+
+    .mobile-center {
+        display: flex;
+        justify-content: center;
+    }
+
 }
 

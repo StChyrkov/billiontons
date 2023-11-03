@@ -264,6 +264,84 @@
         margin-bottom: 10px;
 }
 
+.expo {
+    border-top: 3px solid #205B2D;
+}
+
+.expo-logo {
+    margin-top: 90px;
+    margin-bottom: 90px;
+    margin-right: 80px;
+}
+
+.expo-text {
+    margin-top: 92px;
+    font-family: 'Inter', sans-serif;
+}
+
+.expo-header-small {
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 26px;
+}
+
+.expo-header-big {
+    font-family: 'Inknut Antiqua', serif;
+    color: #2E8040;
+    font-weight: 400;
+    font-size: 52px;
+    line-height: 65px;
+}
+
+.expo-card-header {
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 26px;
+}
+
+.expo-card-text {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+}
+
+.expo-card {
+    margin-top: 40px;
+    padding-left: 80px;
+    padding-right: 80px;
+}
+
+
+.expo-header {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.expo-cards {
+    margin-top: 40px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.partners-cards {
+    display: flex;
+    justify-content: center;
+}
+
+.partner-logo {
+    max-width: 300px;
+    padding: 10px;
+}
+
+.partner-card {
+    margin-bottom: 80px;
+    background-color: #FFFFFF80;
+    border-radius: 25px;
+}
+
 @media(max-width:767px) {
    .why-image {
         display: none;
@@ -323,10 +401,6 @@
         margin-bottom: 18px;
    }
 
-   .first-card {
-        margin-right: 0px;
-   }
-
    .card-header {
         font-size: 28px;
         margin-bottom: 10px;
@@ -376,4 +450,36 @@
         font-size: 24px;
    }
 
+   .form-button {
+        color: black;
+   }
+
+   .expo-logo {
+        display: none;
+   }
+
+   .expo-header-big {
+        font-size: 44px;
+   }
+
+   .expo-text {
+        margin-top: 40px;
+   }
+
+   .expo-card {
+        padding-right: 0px;
+        padding-left: 0px;
+        margin-top: 20px;
+   }
+
+   .expo-cards {
+        margin-bottom: 40px;
+        margin-top: 0px;
+        justify-content: flex-start;
+        margin-left: 24px;
+   }
+
+   .first-card {
+        margin-right: 0px;
+    }
 }

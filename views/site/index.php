@@ -43,10 +43,43 @@ $this->title = 'Billiontons Handels und Consulting GmbH';
             </div>
         </div>
     </div>
+    <div class="expo">
+        <div class="expo-content container flex-container">
+            <div class="expo-logo">
+                <img src="../logo/expo-logo.png" alt="logo-expo" class="expo-logo-big">
+            </div>
+            <div class="expo-text">
+                <div class="expo-header">
+                    <p class="expo-header-small">We are going to</p>
+                    <p class="expo-header-big">Global Grain</p>
+                    <p class="expo-header-big">Geneva 2023</p>
+                </div>
+                <div class="expo-cards">
+                    <div class="expo-card">
+                        <div class="expo-card-header">Where?</div>
+                        <div class="expo-card-text">7, Chem. du Petit-Saconnex 9</div>
+                    </div>
+                    <div class="expo-card">
+                        <div class="expo-card-header">Why?</div>
+                        <div class="expo-card-text">Because we are ready to cooperate</div>
+                    </div>
+                    <div class="expo-card">
+                        <div class="expo-card-header">When?</div>
+                        <div class="expo-card-text">Nov 7-9, 2023</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
     <div class="partners">
         <div class="container">
             <div class="flex-container justify-center">
                 <h2 class="section-header partners-header">PARTNERS AND <span>MEMBERSHIPS</span> </h2>
+            </div>
+            <div class="partners-cards">
+                <div class="partner-card">
+                    <a href="https://www.gafta.com/" target="_blank"><img src="../logo/gafta-logo.png" alt="gafta-logo" class="partner-logo"></a>
+                </div>
             </div>
         </div>
     </div>

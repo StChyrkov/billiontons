@@ -48,25 +48,27 @@ $this->registerLinkTag(['rel' => 'icon', 'type' => 'image/x-icon', 'href' => Yii
 <footer id="footer" class="site-footer">
     <div class="container">
         <div class="footer-content flex-container">
-            <div class="left-footer-block">
-                <div class="logo-text-block flex-container">
-                    <div class="logo-block">
-                        <img src="../logo/logo.png" alt="logo" class="footer-logo">
-                    </div>
-                    <div class="footer-text-block">
-                        <div class="flex-container justify-center">
-                            <div class="footer-text">Billiontons Handels</div>
+            <div class="mobile-center">
+                <div class="left-footer-block">
+                        <div class="logo-text-block flex-container">
+                            <div class="logo-block">
+                                <img src="../logo/logo.png" alt="logo" class="footer-logo">
+                            </div>
+                            <div class="footer-text-block">
+                                <div class="flex-container justify-center">
+                                    <div class="footer-text">Billiontons Handels</div>
+                                </div>
+                                <div class="flex-container justify-center">
+                                    <div class="footer-text footer-small">und</div>
+                                </div>
+                                <div class="flex-container justify-center">
+                                    <div class="footer-text">Consulting GmbH</div>
+                                </div>
+                            </div>  
                         </div>
-                        <div class="flex-container justify-center">
-                            <div class="footer-text footer-small">und</div>
+                        <div class="footer-copyright">
+                            Billiontons Handels und Consulting GmbH © 2023
                         </div>
-                        <div class="flex-container justify-center">
-                            <div class="footer-text">Consulting GmbH</div>
-                        </div>
-                    </div>  
-                </div>
-                <div class="footer-copyright">
-                    Billiontons Handels und Consulting GmbH © 2023
                 </div>
             </div>
             <div class="right-footer-block">
