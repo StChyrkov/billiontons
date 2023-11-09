@@ -74,7 +74,7 @@ $this->title = 'Billiontons Handels und Consulting GmbH';
     <div class="partners">
         <div class="container">
             <div class="flex-container justify-center">
-                <h2 class="section-header partners-header">PARTNERS AND <span>MEMBERSHIPS</span> </h2>
+                <h2 class="section-header partners-header">WE ARE <span>MEMBERS OF</span> </h2>
             </div>
             <div class="partners-cards">
                 <div class="partner-card">
@@ -134,7 +134,7 @@ $this->title = 'Billiontons Handels und Consulting GmbH';
                         </div>
                     </div>
                     <div class="product-card">
-                        <img src="../images/corn-image.png" alt="corn" class="product-image">
+                        <img src="../images/cornfeed-image.png" alt="corn" class="product-image">
                         <div class="flex-container justify-center">
                             <p class="product-name">Corn</p>
                         </div>

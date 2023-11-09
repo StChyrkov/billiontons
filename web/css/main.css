@@ -332,13 +332,11 @@
 }
 
 .partner-logo {
-    max-width: 300px;
-    padding: 10px;
+    max-width: 200px;
 }
 
 .partner-card {
     margin-bottom: 80px;
-    background-color: #FFFFFF80;
     border-radius: 25px;
 }
 
@@ -481,5 +479,13 @@
 
    .first-card {
         margin-right: 0px;
+    }
+
+    .partner-logo {
+        max-width: 140px;
+    }
+
+    .partner-card {
+        margin-bottom: 40px;
     }
 }
